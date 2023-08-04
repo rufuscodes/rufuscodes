@@ -1,7 +1,7 @@
 <h1 align="center">Was Good? ✌🏿 I'm Rufus</h1>
 <h3 align="center">A Community Driven (Full Stack) Software Engineer From Oakland California</h3>
 <br/>
-<img align="right" alt="Welcome to Rufus's Github profile" width="350" src="https://raw.githubusercontent.com/rufuscodes/rufuscodes/master/images/lord_nikons_crib.gif">
+<img align="right" alt="Welcome to Rufus's Github profile" width="360" src="https://github.com/rufuscodes/rufuscodes/blob/master/images/lord_nikons_crib.gif?raw=true">
 
 👨🏾‍💻&nbsp;&nbsp; ≥ &nbsp;Regularly working on projects involving **APIs and Selenium testing**
 
@@ -18,9 +18,9 @@
 <h3 align="left">Tap in with me:</h3>
 <p align="left">
 
-<a href="https://twitter.com/rufuscodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rufuscodes/rufuscodes/master/images/tw.png" alt="rufuscodes on twitter" height="25" width="40" /></a>
-<a href="https://linkedin.com/in/rufuscodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rufuscodes/rufuscodes/master/images/ln.png" alt="rufuscodes on Linkedin" height="25" width="40" /></a>
-<a href="https://www.leetcode.com/rufuscodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rufuscodes/rufuscodes/master/images/lc.png" alt="rufuscodes on LeetCode" height="25" width="40" /></a>
+<a href="https://twitter.com/rufuscodes" target="blank"><img align="center" src="https://github.com/rufuscodes/rufuscodes/blob/master/images/tw.png?raw=true" alt="rufuscodes on twitter" height="25" width="40" /></a>
+<a href="https://linkedin.com/in/rufuscodes" target="blank"><img align="center" src="https://github.com/rufuscodes/rufuscodes/blob/master/images/ln.png?raw=true" alt="rufuscodes on Linkedin" height="25" width="40" /></a>
+<a href="https://www.leetcode.com/rufuscodes" target="blank"><img align="center" src="https://github.com/rufuscodes/rufuscodes/blob/master/images/lc.png?raw=true" alt="rufuscodes on LeetCode" height="25" width="40" /></a>
 
 </p>
 
